@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="3" passed="3">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="109836" started-at="2019-04-19T14:59:06Z" finished-at="2019-04-19T15:00:56Z">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="109836" started-at="2019-04-19T14:59:06Z" finished-at="2019-04-19T15:00:56Z">
+      <class name="com.zoopla.tests.PropertyDtilPageTest">
+        <test-method status="PASS" signature="setupPropertyPage()[pri:0, instance:com.zoopla.tests.PropertyDtilPageTest@1423665]" name="setupPropertyPage" is-config="true" duration-ms="32598" started-at="2019-04-19T14:59:43Z" finished-at="2019-04-19T15:00:15Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setupPropertyPage -->
+        <test-method status="PASS" signature="getAgentdetailsTest()[pri:0, instance:com.zoopla.tests.PropertyDtilPageTest@1423665]" name="getAgentdetailsTest" duration-ms="281" started-at="2019-04-19T15:00:15Z" finished-at="2019-04-19T15:00:16Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getAgentdetailsTest -->
+        <test-method status="PASS" signature="teardown()[pri:0, instance:com.zoopla.tests.PropertyDtilPageTest@1423665]" name="teardown" is-config="true" duration-ms="937" started-at="2019-04-19T15:00:16Z" finished-at="2019-04-19T15:00:17Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+      </class> <!-- com.zoopla.tests.PropertyDtilPageTest -->
+      <class name="com.zoopla.tests.AgentPageTest">
+        <test-method status="PASS" signature="setupAgentPage()[pri:0, instance:com.zoopla.tests.AgentPageTest@398b7c]" name="setupAgentPage" is-config="true" duration-ms="30273" started-at="2019-04-19T15:00:17Z" finished-at="2019-04-19T15:00:47Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setupAgentPage -->
+        <test-method status="PASS" signature="verifyAgentNameTest()[pri:0, instance:com.zoopla.tests.AgentPageTest@398b7c]" name="verifyAgentNameTest" duration-ms="7586" started-at="2019-04-19T15:00:47Z" finished-at="2019-04-19T15:00:54Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyAgentNameTest -->
+        <test-method status="PASS" signature="teardown()[pri:0, instance:com.zoopla.tests.AgentPageTest@398b7c]" name="teardown" is-config="true" duration-ms="1340" started-at="2019-04-19T15:00:54Z" finished-at="2019-04-19T15:00:56Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+      </class> <!-- com.zoopla.tests.AgentPageTest -->
+      <class name="com.zoopla.tests.ForSalePageTest">
+        <test-method status="PASS" signature="setupForSalePage()[pri:0, instance:com.zoopla.tests.ForSalePageTest@c273d3]" name="setupForSalePage" is-config="true" duration-ms="32853" started-at="2019-04-19T14:59:06Z" finished-at="2019-04-19T14:59:39Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setupForSalePage -->
+        <test-method status="PASS" signature="getAllPropertiesPriceReverseTest()[pri:0, instance:com.zoopla.tests.ForSalePageTest@c273d3]" name="getAllPropertiesPriceReverseTest" duration-ms="2718" started-at="2019-04-19T14:59:39Z" finished-at="2019-04-19T14:59:42Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getAllPropertiesPriceReverseTest -->
+        <test-method status="PASS" signature="teardown()[pri:0, instance:com.zoopla.tests.ForSalePageTest@c273d3]" name="teardown" is-config="true" duration-ms="1142" started-at="2019-04-19T14:59:42Z" finished-at="2019-04-19T14:59:43Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+      </class> <!-- com.zoopla.tests.ForSalePageTest -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
